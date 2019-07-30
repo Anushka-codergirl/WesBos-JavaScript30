@@ -1,0 +1,25 @@
+  html {
+    box-sizing: border-box;
+  }
+  
+  *, *:before, *:after { 
+    box-sizing: inherit; 
+  }
+
+  div {
+    width: 100%;
+    padding: 100px;
+  }
+
+  .one {
+    background: rgb(245, 184, 245);
+  }
+
+  .two {
+    background: rgb(225, 254, 255);
+  }
+
+  .three {
+    background: rgba(228, 196, 15, 0.5);
+  }
+  
